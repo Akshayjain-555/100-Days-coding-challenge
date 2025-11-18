@@ -3,9 +3,9 @@
 
 ## 📅 100 Days of Code – Progress Tracker
 
-| Day | Topic | Source Code | Live Preview |
+| Day | Topic | Source Code 
 |----|------|--------------|--------------|
-| 1 | First HTML Page | 📂 day-01-first-html | 🔗 https://akshayjjain-555.io/100-Days-coding-challenge/day-01-html-basics/ |
-| 2 | Text Formatting | 📂 day-02-text-formatting | 🔗 Coming soon |
-| 3 | HTML Lists | 📂 day-03-lists | 🔗 Coming soon |
-| 4 | Links & Images | 📂 day-04-links-and-images | 🔗 Coming soon |
+| 1 | First HTML Page | 📂 day-01-first-html |
+| 2 | Text Formatting | 📂 day-02-text-formatting |
+| 3 |  Lists | 📂 day-03-lists |
+| 4 | Links | 📂 day-04-links |
