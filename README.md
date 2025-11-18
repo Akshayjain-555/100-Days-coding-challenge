@@ -9,3 +9,4 @@
 | 2 | Text Formatting | 📂 day-02-text-formatting |
 | 3 |  Lists | 📂 day-03-lists |
 | 4 | Links | 📂 day-04-links |
+| 5 | Images | 📂 day-05-img |
