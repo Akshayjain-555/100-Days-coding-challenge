@@ -5,10 +5,10 @@
 
 | Day | Topic | Source Code 
 |----|------|--------------|
-| 1 | First HTML Page | 📂 day-01-first-html |
-| 2 | Text Formatting | 📂 day-02-text-formatting |
-| 3 |  List | 📂 day-03-lists |
-| 4 | Link | 📂 day-04-links |
-| 5 | Image | 📂 day-05-img |
-| 6 | Table | 📂 day-06-table |
-| 7 | Form | 📂 day-07-form |
+| 1. | First HTML Page | 📂 day-01-first-html |
+| 2. | Text Formatting | 📂 day-02-text-formatting |
+| 3. |  List | 📂 day-03-lists |
+| 4. | Link | 📂 day-04-links |
+| 5. | Image | 📂 day-05-img |
+| 6. | Table | 📂 day-06-table |
+| 7. | Form | 📂 day-07-form |
