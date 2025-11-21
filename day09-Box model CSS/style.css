@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(206, 204, 203);
+    font-family: arial;
+}
+
+.card{
+    width: 300px;
+    background: rgb(193, 159, 72) (223, 159, 159); /*background color of box*/
+    border: 3px solid rgb(81, 172, 217); /*boundary*/    
+    padding: 20px; /*Content kei andar ka space*/
+    margin: 30px auto; /*center + gap*/
+    border-radius: 5px; /*corners round karne kei liye*/
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /*shadow effect box pr jo shadaw pre*/
+}
+
+h1{
+    color: darkblue;
+    text-align: center;
+}
+
+h2{
+    color: rgb(255,94,0);
+}
