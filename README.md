@@ -12,3 +12,5 @@
 | 5. | Image | 📂 day-05-img |
 | 6. | Table | 📂 day-06-table |
 | 7. | Form | 📂 day-07-form |
+| 8. | CSS intro. | 📂 day-08-CSS intro. |
+| 9. | CSS Box Model | 📂 day-09-Box Model in CSS |
