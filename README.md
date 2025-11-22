@@ -13,7 +13,5 @@
 | 6. | Table | 📂 day-06-table |
 | 7. | Form | 📂 day-07-form |
 | 8. | CSS intro. | 📂 day-08-CSS intro. |
-| 9. | CSS Box Model | 📂 day-09-Box Model in html |
 | 9. | CSS Box Model | 📂 day-09-Box Model in CSS |
-| 10. | CSS Flex Box | 📂 day-10-Flex-box in html |
-| 10. | CSS Flex box | 📂 day-10-Flex-box in CSS | 
+| 10. | CSS Flex box | 📂 day-10-Flex-box in CSS  |  
