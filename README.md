@@ -15,3 +15,4 @@
 | 8. | CSS intro. | 📂 day-08-CSS intro. |
 | 9. | CSS Box Model | 📂 day-09-Box Model in CSS |
 | 10. | CSS Flex box | 📂 day-10-Flex-box in CSS  |  
+| 11. | CSS Responsive Design | 📂 day11-Responsive design in CSS  |  
