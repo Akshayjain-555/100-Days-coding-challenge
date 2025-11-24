@@ -1,0 +1,151 @@
+body {
+    font-family: 'Poppins', Arial, sans-serif;
+    margin: 0;
+    background: #f5f7fb;
+}
+
+.navbar {
+    background: #0a66c2;
+    color: white;
+    padding: 12px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    margin: 0;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    transition: 0.3s ease-in-out;
+}
+
+.nav-links a:hover {
+    color: yellow;
+}
+
+.hero {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.hero h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 25px;
+}
+
+/* Common button style */
+.btn {
+    padding: 10px 22px;
+    border-radius: 6px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 0 8px;
+}
+
+/* Primary button */
+.btn-primary {
+    background-color: #0a66c2;
+    color: white;
+}
+
+/* Secondary button */
+.btn-secondary {
+    background-color: white;
+    color: #0a66c2;
+    border: 1px solid #0a66c2;
+}
+
+
+.btn {
+    transition: 0.25s ease-in-out;
+}
+
+.btn-primary:hover {
+    background-color: #004182; /* thoda dark */
+    transform: translateY(-2px);
+}
+
+.btn-secondary:hover {
+    background-color: #e6f1ff;
+    transform: translateY(-2px);
+}
+
+.notes-section {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.notes-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.note-card {
+    background: #ffffff;
+    padding: 18px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+    text-align: left;
+    font-size: 15px;
+    line-height: 1.4;
+}
+
+.form-section {
+    margin-top: 40px;
+}
+
+.note-form {
+    max-width: 400px;
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 12px;
+    margin: auto;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.note-form input,
+.note-form textarea {
+    width: 100%;
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 15px;
+}
+
+.note-form input:focus,
+.note-form textarea:focus {
+    border-color: #0a66c2;
+    outline: none;
+    box-shadow: 0 0 8px rgba(10,102,194,0.3);
+}
+
+
+
+
+
